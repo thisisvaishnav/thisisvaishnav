@@ -2,7 +2,8 @@
 
 ```
 $ whoami
-> vaishnav verma — builder of things that probably didn't need to exist, but here we are.
+> vaishnav verma — love turning ideas into working products.
+  currently building useful things for developers and communities.
 ```
 
 </div>
@@ -13,7 +14,7 @@ $ whoami
 const vaishnav = {
   role: "full-stack developer",
   focus: ["developer tools", "system design", "open source"],
-  currentlyBuilding: "useful things for developers and communities",
+  intern: "DefendAir Technologies — edge AI on drones",
   status: "shipping → learning → repeat",
 };
 ```
@@ -26,6 +27,7 @@ const vaishnav = {
   <a href="https://x.com/0xztp"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/imanish02/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vaishnavxwork@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/thisisvaishnav"><img src="https://img.shields.io/badge/GitHub-6e40c9?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://shorturl.at/3ih0a"><img src="https://img.shields.io/badge/Resume-111111?style=flat-square&logo=readthedocs&logoColor=white" /></a>
 </p>
 
@@ -33,26 +35,7 @@ const vaishnav = {
 
 ### `stack`
 
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
+`TypeScript` `JavaScript` `Python` `React 19` `Next.js` `Vite` `Tailwind CSS` `Node.js` `Bun` `FastAPI` `Express 5` `PostgreSQL` `MongoDB` `Redis` `Docker` `AWS` `Nginx` `Linux` `Turborepo` `Socket.IO` `BullMQ` `Zod`
 
 <br>
 
@@ -62,20 +45,20 @@ const vaishnav = {
 <tr>
 <td width="50%" valign="top">
 
-**[CXE](https://cxe.vaishnav.site)**
+**[CXE](https://cxe.vaishnav.site)** — Centralized Exchange
 <br>
-Realistic paper-trading platform with an institutional-grade matching engine, live Binance market data, and a no-code workflow builder powered by a custom DAG execution engine.
+Realistic paper-trading platform with an institutional-grade in-memory matching engine processing **10,000+ orders/sec**, live Binance market data, and a no-code workflow builder powered by a custom DAG execution engine. Serves **500+ concurrent users** via authenticated WebSocket push — zero polling.
 
-`React 19` `Next.js` `React Flow` `Bun` `Express 5` `MongoDB` `Turborepo` `AWS`
+`React 19` `TypeScript` `Redis` `WebSockets` `PostgreSQL` `Docker` `AWS` `Turborepo`
 
 </td>
 <td width="50%" valign="top">
 
-**[Trading Flow](https://tradingflow.vaishnav.site)**
+**[TradingFlow](https://tradingflow.vaishnav.site)** — Visual Trading Automation
 <br>
-Visual trading automation platform built on a Turborepo monorepo. Drag-and-drop DAG editor to connect triggers (price alerts, timers), actions (live exchange orders), and notifications (email, Telegram) — with a custom topological execution engine and full audit trail.
+Drag-and-drop DAG editor to compose trading pipelines with 50+ nodes — zero code required. Custom topological execution engine with fail-fast error handling and per-node audit trail (`PENDING → COMPLETED/FAILED`). Deployed end-to-end on AWS with live Binance WebSocket price feeds.
 
-`React 19` `TypeScript` `Vite` `Tailwind CSS 4` `Express 5` `MongoDB` `Bun` `Turborepo`
+`React 19` `React Flow` `Next.js` `TypeScript` `Bun` `Express 5` `MongoDB` `Turborepo`
 
 </td>
 </tr>
@@ -83,22 +66,23 @@ Visual trading automation platform built on a Turborepo monorepo. Drag-and-drop 
 
 <br>
 
-### `currently_learning[]`
+### `by the numbers`
 
-`Data Structures & Algorithms` · `System Design` · `Kubernetes` · `Cloud Infrastructure` · `Distributed Systems`
+| | |
+|---|---|
+| `10,000+` orders/sec | institutional-grade in-memory matching engine |
+| `500+` concurrent users | authenticated WebSocket push, zero polling |
+| `15,000` images | YOLOv8 model trained for real-time drone weapon/personnel detection |
+| `60 fps` | request-animation-frame decoupled UI with binary WebSocket parsing |
 
 <br>
 
-### `stats`
+### `experience`
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=thisisvaishnav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisisvaishnav&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisvaishnav&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+**Software Engineer Intern — DefendAir Technologies** *(Feb 2025 – Sep 2025)*
+- Optimized inference pipeline with TensorRT for real-time performance on Raspberry Pi edge hardware deployed on-drone
+- Trained YOLOv8 on 15,000 images for live weapon/personnel detection from drone feeds
+- Built and containerized REST APIs with Docker to serve model inference to downstream systems
 
 <br>
 
