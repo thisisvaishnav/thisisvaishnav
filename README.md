@@ -11,7 +11,7 @@ Connect With Me
 
 » X / Twitter    → https://x.com/0xztp
 » LinkedIn       → https://www.linkedin.com/in/imanish02/
-» Email          → [vaishnavxwork@gmail.com](mailto:vaishnavxwork@gmail.com)
+» Email          → vaishnavxwork@gmail.com
 » Resume         → https://shorturl.at/3ih0a
 
 ---
@@ -19,20 +19,13 @@ Connect With Me
 Skills & Tools
 
 » Languages:      TypeScript, JavaScript, Python, SQL
-
 » Frontend:       React, Next.js, React Flow, Tailwind CSS
-
 » Backend:        Node.js, Express.js, Bun, FastAPI
-
 » Databases:      PostgreSQL, MongoDB, Redis
-
 » DevOps:         AWS, Docker, Nginx, Linux, CI/CD
+» Tools:          Prisma, Socket.IO, Zod, GitHub Actions
+» Competencies:   System Design, Microservices, Distributed Systems, Agile/Scrum
 
-» Tools:          Prisma, BullMQ, Socket.IO, Zod,
-Jest, Turborepo, Git, GitHub Actions
-
-» Competencies:   System Design, Microservices,
-Distributed Systems, Agile/Scrum
 
 ---
 
